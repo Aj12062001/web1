@@ -1,0 +1,11 @@
+<html>
+<head>
+	<title>iframe</title>
+</head>
+<body>
+	<a href="fruit.html" target="iframeb">fruits</a>
+	<a href="vegetables.html" target="iframeb">vegetables</a>
+	<a href="flowers.html" target="iframeb">flowers</a>
+	<a href="trees.html" target="iframeb">trees</a>
+</body>
+</html>
