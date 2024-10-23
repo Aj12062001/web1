@@ -1,0 +1,17 @@
+p {
+    color: black;
+    background-color: #FF6600;
+    padding: 10px;
+}
+.highlight {
+    color: blue;
+    background-color: ivory;
+    padding: 10px;
+}
+#special {
+    color: white;
+    background-color: green;
+    padding: 10px;
+}
+
+
